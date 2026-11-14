@@ -6,9 +6,6 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths:
-      - scripts/update_repos.py
-      - .github/workflows/update-profile.yml
 
 permissions:
   contents: write
