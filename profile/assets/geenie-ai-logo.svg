@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="wisp" gradientUnits="userSpaceOnUse" x1="0" y1="250" x2="0" y2="340">
+      <stop offset="0" stop-color="#F6F0FF"/>
+            <stop offset="1" stop-color="#F2B441"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#24164F"/>
+  <!-- wisp: bowl + stem of a lowercase g, tail tapering into the spout -->
+  <g fill="url(#wisp)">
+    <path fill-rule="evenodd" d="M246 62a98 98 0 1 0 0 196a98 98 0 1 0 0-196Zm0 46a52 52 0 1 1 0 104a52 52 0 1 1 0-104Z"/>
+    <path d="M298 84a23 23 0 0 1 46 0V222C344 274 398 290 409 340C378 310 298 308 298 236Z"/>
+  </g>
+  <!-- lamp -->
+  <g fill="#F2B441">
+    <path d="M150 396C150 358 296 356 330 378C356 368 384 352 404 336L412 345C392 380 360 426 300 438C250 448 150 446 150 396Z"/>
+    <path d="M204 440H288L304 464H188Z"/>
+    <path fill-rule="evenodd" d="M132 362a34 34 0 1 0 0 68a34 34 0 1 0 0-68Zm0 18a16 16 0 1 1 0 32a16 16 0 1 1 0-32Z"/>
+  </g>
+</svg>
