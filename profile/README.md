@@ -17,7 +17,5 @@ Issues and pull requests are welcome in any repository. If you have an idea for 
 ## Repositories
 
 <!-- REPOS:START -->
-| Repository | Description |
-| --- | --- |
-| [skills](https://github.com/Geenie-AI/skills) | Portable agent skill that designs or fixes prompts, skills, agents, retrieval and multi-agent pipelines for Claude Code, Claude SDK, OpenAI Agents SDK, Codex and other frameworks. Diagnoses failures onto the context/behavior axes, picks the cheapest lever that meets your accuracy target, and ships every design with an eval spec. |
+_No public repositories yet._
 <!-- REPOS:END -->
