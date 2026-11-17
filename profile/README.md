@@ -17,5 +17,7 @@ Issues and pull requests are welcome in any repository. If you have an idea for 
 ## Repositories
 
 <!-- REPOS:START -->
-_No public repositories yet._
+| Repository | Description |
+| --- | --- |
+| [skills](https://github.com/Geenie-AI/skills) | Reusable agent skills for building or optimizing agentic AI solutions on any platform, in any programming language. |
 <!-- REPOS:END -->
